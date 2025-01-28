@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on: Chatter Project.
+- 🔭 I’m currently working on: Chatter Project and the Nyxie Operating System Project.
 - 🌱 I’m currently learning: Assembly, C,C++,HTML,CSS.
 - 👯 I’m looking to collaborate on: ...
 - 🤔 I’m looking for help with: Not yet.
